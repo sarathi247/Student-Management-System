@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+
+/* body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    min-width: 100vh;
+    background: url(peakpx\ \(4\).jpg) ;
+   
+
+} */
+
+body{
+    background:  url('5562402_21421.jpg') no-repeat;
+    background-size: cover;
+    background-position: auto;
+    justify-content:center;
+    align-items: center;
+}
+
+
+.title{
+    font-size: 20px;
+    text-align:center;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.student{
+    border-radius: 11px;
+    border-style: solid;
+    margin: auto;
+    margin-top: 115px;
+    padding:30px;
+    width:450px;
+    height:300px;
+    max-width: 90%;
+    background: transparent;
+    background: rgba(255, 255, 255, 0.2);
+    border: 2px solid rgb(255,255,255,.2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgb(0,0,0,.2);
+}
+.id{
+    margin-top: 25px;
+    
+    height: 180px;
+    font-weight: bold;
+}
+.roll{
+    margin-top: 5px;
+    width: 100%;
+    padding:4px;
+}
+.p1{
+    margin-top: 15px;
+    font-weight: bold;
+}
+.pass{
+    margin-top: 5px;
+    width:100%;
+    padding:4px;
+    
+}
+.sub{
+    margin-top: 15px;
+    margin-left: 300px;
+    padding:3px 20px;
+}
+.link{
+    margin-top:8px;   
+}
+
